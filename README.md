@@ -20,7 +20,7 @@ Our team started with zero prior experience in Unity game development. Within a 
 
 This game was brought to life by a dedicated team of three. Below is the breakdown of our technical and creative responsibilities:
 
-* **Yihan Zhang** * Environment & Background Design
+* **[Yihan Zhang](https://github.com/makabakamak)** * Environment & Background Design
     * Collision System Implementation
     * Scene Art Implementation
     * Narrative & Story Design
@@ -29,7 +29,7 @@ This game was brought to life by a dedicated team of three. Below is the breakdo
     * Level 3 Interactivity (Pond Piano Interaction Mechanics)
     * Narrative & Story Design
 
-* **[Yongyuan Peng](https://github.com/makabakamak)** * Character Animations & State Machines
+* **Yongyuan Peng(me)** * Character Animations & State Machines
     * Character-Environment Interaction Physics
     * Cinematic Camera Controllers
     * Character Concept & Art Design
@@ -41,3 +41,12 @@ This game was brought to life by a dedicated team of three. Below is the breakdo
 * **Engine:** Unity 2D
 * **Platform:** WebGL (Playable across all modern web browsers)
 * **Key Systems:** Custom character controllers, physics-based environment interactions, dynamic scene loading, and a custom UI framework.
+
+By the time I wrote this README, many key problems had already slipped my mind. If you have any technical questions, feel free to reach out!
+---
+
+## 💭 Developer's Note: Our Journey
+
+As the only all-female team in the class, and operating with fewer members than other groups, we initially faced a lot of pressure. We constantly worried that our coding abilities might fall short of fully expressing the game's core vision, and we feared missing the submission deadline or struggling with the final presentation. 
+
+However, we were incredibly fortunate that our deep mutual understanding and seamless teamwork bridged every technical gap. We will always cherish the memories of those sleepless nights spent debugging side by side. Overcoming these challenges together not only brought this game to life, but also proved what we are truly capable of when we stand united.
