@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8dd8a6a181388f54d891385f95687a48
+  - enabled: 1
+    path: Assets/Scenes/Text.unity
+    guid: 70c9c7d53dda8124bb5a2d1350c02349
+  - enabled: 1
+    path: Assets/Scenes/FirstGame.unity
+    guid: 96ae55371dc94a245b6d27dd4806e7b7
+  - enabled: 1
+    path: Assets/Scenes/Text1.unity
+    guid: 817ba542f307db848bc0d8d1359d026f
+  - enabled: 1
+    path: Assets/Scenes/SecondGame.unity
+    guid: b3554d004e9947a4a97e7ddd9f4c760f
+  - enabled: 1
+    path: Assets/Scenes/win1.unity
+    guid: 84faf1c9a36324145a7762c307f8aed5
+  - enabled: 1
+    path: Assets/Scenes/SunStartUI.unity
+    guid: fc34bd7e384df0d4ea54b71bdac7d3a8
+  - enabled: 1
+    path: Assets/Scenes/SunsetGame.unity
+    guid: 0369d163278e7cf40b685510f7aaeecf
+  - enabled: 1
+    path: Assets/Scenes/SunOverUI.unity
+    guid: 3c43f399653fdc44e91464bf3b151cfe
+  - enabled: 1
+    path: Assets/Scenes/ForestStartUI.unity
+    guid: 38a4455fb43f72346aa4f0065e2bae1a
+  - enabled: 1
+    path: Assets/Scenes/ForestGame.unity
+    guid: 08d7539c33ecbab4f91c992a54fb1817
+  - enabled: 1
+    path: Assets/Scenes/ForestOverUI.unity
+    guid: e2f74773fba60b84b91cac10a3c2ae15
+  - enabled: 1
+    path: Assets/Scenes/MaskStartUI.unity
+    guid: 574f0bb5e5b649e40a68451dc13f3e00
+  - enabled: 1
+    path: Assets/Scenes/MaskOverUI.unity
+    guid: ba7d4c40ec92db84bbc18d40a15587c7
+  - enabled: 1
+    path: Assets/Scenes/README.unity
+    guid: 1561d2c95e86c0340a350d80fd6aed01
+  m_configObjects: {}
