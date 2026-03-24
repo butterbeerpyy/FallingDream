@@ -42,7 +42,7 @@ This game was brought to life by a dedicated team of three. Below is the breakdo
 * **Platform:** WebGL (Playable across all modern web browsers)
 * **Key Systems:** Custom character controllers, physics-based environment interactions, dynamic scene loading, and a custom UI framework.
 
-By the time I wrote this README, many key problems had already slipped my mind. If you have any technical questions, feel free to reach out!
+* By the time I wrote this README, many key problems had already slipped my mind. If you have any technical questions, feel free to reach out!
 ---
 
 ## 💭 Developer's Note: Our Journey
